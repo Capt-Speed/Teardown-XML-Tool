@@ -8,6 +8,17 @@
 | **Source code / 源代码** | **[Download source ZIP / 下载源码 ZIP](https://github.com/Capt-Speed/Teardown-XML-Tool/archive/refs/tags/v1.2.1.zip)** |
 | Release notes / 版本说明 | [Releases](https://github.com/Capt-Speed/Teardown-XML-Tool/releases) |
 
+## Contributors / 贡献者
+
+| Contributor / 贡献者 | Role / 角色 |
+| --- | --- |
+| [Capt-Speed](https://github.com/Capt-Speed) | Project owner and maintainer; requirements, design decisions and in-game feedback. / 项目所有者与维护者，负责需求、设计决策及游戏内反馈。 |
+| [Codex](https://github.com/codex) · OpenAI | AI coding assistance with implementation, debugging, documentation and packaging. / AI 编程助手，协助代码实现、问题排查、文档与打包。 |
+
+Codex is credited as an AI assistant. This is a community project maintained by Capt-Speed, not an official OpenAI, Teardown or TABS product.
+
+Codex 的署名表示 AI 协作。本项目由 Capt-Speed 维护，并非 OpenAI、Teardown 或 TABS 的官方产品。
+
 ## English
 
 A Windows desktop tool for enlarging and mirroring Teardown XML/VOX models. Version **1.2.1** uses the original light Qt interface, with an English / Simplified Chinese selector in the upper-right corner. English is the default.
